@@ -1,4 +1,4 @@
-<h2 align="left">Hi there👋! <br>I'm SUGAR.</h2>
+<h2 align="left">Hi there👋! <br>I'm SIBICHAKARAVARTHY.</h2>
 
 ###
 
@@ -7,12 +7,12 @@
 ###
 
 <div align="left">
-  <img src="https://profile-counter.glitch.me/NAVEENRAJ9597/count.svg?%22"  />
+  <img src="https://profile-counter.glitch.me/SIBICHAKARAVARTHYKS/count.svg?%22"  />
 </div>
 
 ###
 
-<p align="left">- 🔭 I’m currently working on Software developing project<br>- 🌱 I’m currently learning Software Developer <br>- 🤔 I’m looking for help with internship<br>- 📫 How to reach me: nraj65955@gmail.com <br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: travel and explore more!</p>
+<p align="left">- 🔭 I’m currently working on Software developing project<br>- 🌱 I’m currently learning Software Developer <br>- 🤔 I’m looking for help with internship<br>- 📫 How to reach me: sibiks1345@gmail.com <br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: travel and explore more!</p>
 
 ###
 
@@ -59,13 +59,13 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/naveenraj-v-84b68225a/" target="_blank">
+  <a href="https://http://www.linkedin.com/in/sibichakaravarthyks" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/nraj65955">
+  <a href="https://www.hackerrank.com/profile/kssibisurya78">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
-  <a href="https://www.instagram.com/mr_jerry_03__/" target="_blank">
+  <a href="https://www.instagram.com/sibi_subramaniam/?hl=en" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
